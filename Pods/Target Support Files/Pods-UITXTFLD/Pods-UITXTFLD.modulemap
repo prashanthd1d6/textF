@@ -1,0 +1,6 @@
+framework module Pods_UITXTFLD {
+  umbrella header "Pods-UITXTFLD-umbrella.h"
+
+  export *
+  module * { export * }
+}

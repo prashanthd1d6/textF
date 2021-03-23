@@ -1,0 +1,6 @@
+framework module Pods_UITXTFLDTests {
+  umbrella header "Pods-UITXTFLDTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
